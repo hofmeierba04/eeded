@@ -1,0 +1,8 @@
+fun solution() {
+    forward()
+    forward()
+    forward()
+    forward()
+    turnLeft()
+    forward()
+}
